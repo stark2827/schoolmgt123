@@ -1,0 +1,3 @@
+delete fees detail ----> id == feesid/studentid ,
+get all fees ni jarur nathi
+get fees detail baki
